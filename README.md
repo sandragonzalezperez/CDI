@@ -1,6 +1,7 @@
 # CDI
 Contenidos disciplinares para la materia de informática
 
+# PROYECTO DE ÁNGEL HUERTOS RODRÍGUEZ EN SCRATCH
 ## Descripción del proyecto
 Este proyecto consiste en un programa realizado con Scratch. Se trata de un juego interactivo ambientado en un escenario tipo **“laberinto”** (escenario delimitado por paredes y pasillos) con mecánicas de acción. Hay ítems, obstáculos y personajes colocados en distintas zonas, con una zona temática como el *“Campo de tiro”*, flechas, disparos, detección de colores, variables, disfraces, mensaje, sonidos y así hasta un total de 14 objetos, 2 escenarios y más de 100 bloques de código. 
 
