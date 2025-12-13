@@ -25,3 +25,23 @@ El personaje principal (Pufferfish) se mueve con los controles flecha del teclad
 
 ## Enlace
 https://scratch.mit.edu/projects/1254888437
+
+
+
+# PROYECTO DE SANDRA GONZÁLEZ PÉREZ EN SCRATCH
+## Descripción del proyecto
+Basándome en el icónico juego pac-man he creado un juego en scracth llamado ANGERMAN. El objetivo principal es comer todos los puntos rojos (comida) del laberinto mientras evitas a cuatro fantasmas. Usa las flechas del teclado para mover a ANGER (también conocido como FURIA), engulle toda la comida para conseguir sumar puntuación sin perder tu vida. ¡SUERTE!
+
+## Controles del programa o aplicación
+- Flechas : muever arriba, abajo, izquierda y derecha
+
+## Posibles mejoras futuras
+1. Incorporación de otras funcionalidades como el cambio de rol en el que ANGER puede temporalmente comer a los fantasmas
+2. Añadir diferentes niveles de dificultad añadiendo un tiempo limitado.
+
+## Nombre del autor
+Sandra González Pérez
+
+## Enlace
+https://scratch.mit.edu/projects/1253314889/
+
