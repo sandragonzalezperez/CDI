@@ -1,4 +1,5 @@
 # CDI
+﻿# CDI
 Contenidos disciplinares para la materia de informática
 
 # PROYECTO DE ÁNGEL HUERTOS RODRÍGUEZ EN SCRATCH
@@ -44,4 +45,42 @@ Sandra González Pérez
 
 ## Enlace
 https://scratch.mit.edu/projects/1253314889/
+
+
+
+# PROYECTO DE VÍCTOR DEL BARRIO FERNÁNDEZ – SCRATCH
+
+## Descripción del proyecto
+Este proyecto consiste en un programa realizado con Scratch. Se trata de un juego para dos jugadores inspirado en los videojuegos de carreras de coches de los años 80.
+
+## Objetivos
+Ganar a tu contrincante en un total de 4 vueltas. Tanto si pisas la hierba como si pisas el barro, tu velocidad se verá afectada.
+
+## Controles del juego
+Coche rojo:
+- Flecha arriba: avanzar
+- Flecha izquierda: girar a la izquierda
+- Flecha derecha: girar a la derecha
+
+Coche rojo:
+- Tecla W: avanzar
+- Tecla A: girar a la izquierda
+- Tecla D: girar a la derecha
+
+## Posibles mejoras futuras
+1. Añadir partida individual y selección individual o multijugador.
+2. Mejorar el contador de vueltas.
+3. Introducir un sonido progresivo con relación a la velocidad.
+4. Añadir marcha atrás
+5. Añadir zoom para ver solo la zona cercana. Necesario varias pantallas en multijugador. 
+6. Añadir más pistas y niveles
+7. Añadir más tipos de obstáculos (arboles, saltos, zonas de velocidad)
+
+## Nombre del autor
+Víctor Del Barrio Fernández
+
+## Enlace
+https://scratch.mit.edu/projects/1255648692
+
+
 
